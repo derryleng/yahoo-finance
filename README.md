@@ -1,0 +1,1 @@
+Quick R script to download stock data from Yahoo Finance and calculate log returns
