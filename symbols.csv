@@ -1,25 +1,4 @@
-Name,Symbol,Country,Type
-iShares MSCI Germany ETF (EWG),EWG,DE,ETF
-SAP SE (SAP.DE),SAP.DE,DE,Stock
-Siemens Aktiengesellschaft (SIE.DE),SIE.DE,DE,Stock
-Volkswagen Aktiengesellschaft (VOW3.DE),VOW3.DE,DE,Stock
-MERCK Kommanditgesellschaft auf Aktien (MRK.DE),MRK.DE,DE,Stock
-Daimler AG (DAI.DE),DAI.DE,DE,Stock
-iShares MSCI France ETF (EWQ),EWQ,FR,ETF
-LVMH Moët Hennessy Louis Vuitton S.E. (MC.PA),MC.PA,FR,Stock
-L'Oréal S.A. (OR.PA),OR.PA,FR,Stock
-Hermès International Société en commandite par actions (RMS.PA),RMS.PA,FR,Stock
-Christian Dior SE (CDI.PA),CDI.PA,FR,Stock
-Sanofi (SAN.PA),SAN.PA,FR,Stock
-UK FTSE All Share (^FTAS),^FTAS,UK,Index
-AstraZeneca PLC (AZN.L),AZN.L,UK,Stock
-Unilever PLC (ULVR.L),ULVR.L,UK,Stock
-Diageo plc (DGE.L),DGE.L,UK,Stock
-HSBC Holdings plc (HSBA.L),HSBA.L,UK,Stock
-GlaxoSmithKline plc (GSK.L),GSK.L,UK,Stock
-iShares Russell 3000 ETF (IWV),IWV,US,ETF
-Apple Inc. (AAPL),AAPL,US,Stock
-Microsoft Corporation (MSFT),MSFT,US,Stock
-"Amazon.com, Inc. (AMZN)",AMZN,US,Stock
-NVIDIA Corporation (NVDA),NVDA,US,Stock
-Berkshire Hathaway Inc. (BRK-A),BRK-A,US,Stock
+Name,Symbol
+USD/GBP,GBP=X
+GBP/EUR,GBPEUR=X
+USD/GBP,GBPUSD=X

@@ -17,8 +17,8 @@ for (x in symbols$Symbol) {
       Symbols = x,
       periodicity = "daily",
       src = "yahoo",
-      from = "2018-03-01",
-      to = "2023-04-01",
+      #from = "2018-03-01",
+      #to = "2023-04-01",
       auto.assign = F
     )
     sym_x <- as.data.table(sym_x)
